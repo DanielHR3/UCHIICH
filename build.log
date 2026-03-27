@@ -1,0 +1,17 @@
+- Building...
+
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-FXXMTX34.js      | main          | 184.27 kB |                50.11 kB
+polyfills-FFHMD2TL.js | polyfills     |  33.71 kB |                11.02 kB
+styles-F2OKTHOE.css   | styles        |  16.77 kB |                 1.44 kB
+
+                      | Initial total | 234.75 kB |                62.57 kB
+
+Application bundle generation failed. [4.973 seconds]
+
+Ôû▓ [WARNING] src/app/app.component.css exceeded maximum budget. Budget 2.00 kB was not met by 2.71 kB with a total of 4.71 kB.
+
+
+X [ERROR] src/app/app.component.css exceeded maximum budget. Budget 4.00 kB was not met by 722 bytes with a total of 4.71 kB.
+
+
